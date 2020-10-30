@@ -1,5 +1,8 @@
 ### [Gitte Vermeiren](https://github.com/vermegi/) 👋
 
+Hi there, I am Gitte, you can call me a full stack developer. Currently my main focus is everything app dev on the Azure Platform. 
+I work as a engineer in the Microsoft FastTrack for Azure team, helping our customers design their applications right on Azure. 
+
 [![GitHub Badge](https://img.shields.io/badge/-@vermegi-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/vermegi)](https://github.com/vermegi)
 [![Twitter Badge](https://img.shields.io/badge/-@gittetitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=gittetitter "Follow on Twitter")
 [![Linkedin Badge](https://img.shields.io/badge/-gittevermeiren-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gitte-vermeiren-b1b2221/)](https://www.linkedin.com/in/gitte-vermeiren-b1b2221/)
